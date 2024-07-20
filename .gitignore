@@ -1,0 +1,9 @@
+checkpoint-*
+*cpython-*
+log_dir_*
+*deep-learning-models*
+.ipynb_checkpoints/*
+flagged/*
+.ipynb_checkpoints/*
+*__MACOSX
+*.pyc
